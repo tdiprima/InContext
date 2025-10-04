@@ -24,7 +24,7 @@ def cleanup_files(file_names):
 # ExitStack example
 if __name__ == "__main__":
     # List of resources (file names)
-    resources = ["file1.txt", "file2.txt", "file3.txt"]
+    resources = ["../data/file1.txt", "../data/file2.txt", "../data/file3.txt"]
 
     # Create sample files
     create_sample_files(resources)
