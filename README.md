@@ -1,2 +1,3 @@
 # InContext
-I'm doing context things
+
+Using contextlib and contextmanager
